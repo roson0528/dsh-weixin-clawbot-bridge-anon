@@ -1,0 +1,23 @@
+{
+  "name": "DSH 微信 ClawBot 桥接插件（脱敏版）",
+  "slug": "dsh-weixin-clawbot-bridge-anon",
+  "category": "dev-tools",
+  "description": "DeepSeek Assistant（DSH）接入微信 ClawBot / iLink 的桥接插件，脱敏可分发版。功能：微信收发指令、任务完成通知与完成报告、失败自动重试并补发「继续」、审批与 ask_user_question 交互转发到微信（支持自定义答案）、扫码登录、网页配置端（配置热生效 + 会话历史任务弹窗，分页 10 条/页、支持页码跳转）、按会话稳定编号（01#）操作、超时不再静默新建任务（15 分钟续聊有效期）。包内含 README、技术备档、部署与使用报告、脱敏说明、安装脚本及全部源码，已移除主机 IP / 账号密码 / 真实域名 / 业务路径等站点信息，占位符见脱敏说明.md。",
+  "version": "2026.10.31",
+  "tags": [
+    "DSH",
+    "微信",
+    "ClawBot",
+    "iLink",
+    "插件",
+    "Agent",
+    "脱敏"
+  ],
+  "filename": "weixin-clawbot-bridge-anon.tar.gz",
+  "format": "tar.gz",
+  "size": 90395,
+  "sha256": "fc4cf0542a39c3f7fe2983889524b0e17fe5257e443ca261410d78d467bf0933",
+  "created_at": "2026-10-31 10:34:48",
+  "download_url": "/api/v1/images/dsh-weixin-clawbot-bridge-anon/download",
+  "git_url": "/img-git/dsh-weixin-clawbot-bridge-anon.git"
+}
