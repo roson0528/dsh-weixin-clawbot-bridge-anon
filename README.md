@@ -24,3 +24,16 @@ curl -OJ "<服务地址>/api/v1/images/dsh-weixin-clawbot-bridge-anon/download"
 # 或克隆仓库
 git clone <服务地址>/img-git/dsh-weixin-clawbot-bridge-anon.git
 ```
+<!-- ghm-github-section -->
+## 从 GitHub 获取
+```bash
+# 克隆仓库（含 README 与 metadata.json）
+git clone https://github.com/roson0528/dsh-weixin-clawbot-bridge-anon.git
+# 下载打包好的归档
+curl -LO https://github.com/roson0528/dsh-weixin-clawbot-bridge-anon/releases/latest/download/weixin-clawbot-bridge-anon.tar.gz
+```
+- 仓库：https://github.com/roson0528/dsh-weixin-clawbot-bridge-anon
+- 最新版本：`v2026.10.31`（https://github.com/roson0528/dsh-weixin-clawbot-bridge-anon/releases/tag/v2026.10.31）
+- 归档文件：`weixin-clawbot-bridge-anon.tar.gz`
+- 校验：`sha256sum weixin-clawbot-bridge-anon.tar.gz` 应为 `fc4cf0542a39c3f7fe2983889524b0e17fe5257e443ca261410d78d467bf0933`
+> 本仓库由内网镜像站自动同步生成，内容与镜像站保持一致。

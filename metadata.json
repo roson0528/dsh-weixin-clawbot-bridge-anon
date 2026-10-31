@@ -19,5 +19,10 @@
   "sha256": "fc4cf0542a39c3f7fe2983889524b0e17fe5257e443ca261410d78d467bf0933",
   "created_at": "2026-10-31 10:34:48",
   "download_url": "/api/v1/images/dsh-weixin-clawbot-bridge-anon/download",
-  "git_url": "/img-git/dsh-weixin-clawbot-bridge-anon.git"
+  "git_url": "/img-git/dsh-weixin-clawbot-bridge-anon.git",
+  "github": {
+    "url": "https://github.com/roson0528/dsh-weixin-clawbot-bridge-anon",
+    "release_tag": "v2026.10.31",
+    "release_url": "https://github.com/roson0528/dsh-weixin-clawbot-bridge-anon/releases/tag/v2026.10.31"
+  }
 }
